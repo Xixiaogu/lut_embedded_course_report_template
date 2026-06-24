@@ -10,6 +10,10 @@
 
 请同时阅读 [NOTICE.md](NOTICE.md)，了解来源、版权和使用边界。
 
+## 模板预览
+
+模板编译效果可参考：[main.pdf](./main.pdf)。
+
 ## 使用方法
 
 1. 修改 `sections/00_cover.tex` 中的封面信息、摘要和关键词。
