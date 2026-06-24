@@ -13,6 +13,9 @@
 ## 模板预览
 
 模板编译效果可参考：[main.pdf](./main.pdf)。
+![模板预览](./figures/preview1.png)
+![模板预览](./figures/preview2.png)
+![模板预览](./figures/preview3.png)
 
 ## 使用方法
 
